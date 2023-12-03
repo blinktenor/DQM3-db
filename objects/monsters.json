@@ -10166,6 +10166,24 @@
             ]
         ]
     },
+    "mottle_she_slime": {
+        "name": "Mottle She-Slime",
+        "number": null,
+        "rank": null,
+        "family": "_beast",
+        "description": null,
+        "drops": null,
+        "growth": null,
+        "talents": null,
+        "traits": null,
+        "resistances": null,
+        "synthesis": [
+            [
+                "mottle_slime",
+                "beshemoth_slime"
+            ]
+        ]
+    },
     "hard_boiled_eggsoskeleton": {
         "name": "Hard-Boiled Eggsoskeleton",
         "number": 338,
@@ -15561,104 +15579,6 @@
                 "_undead"
             ]
         ]
-    },
-<<<<<<< HEAD
-    "maniacal_mole": {
-        "name": "Maniacal Mole",
-        "number": null,
-        "rank": "",
-        "family": "_beast",
-        "description": null,
-        "drops": null,
-        "growth": null,
-        "talents": null,
-        "traits": null,
-        "resistances": null,
-        "synthesis": [
-            [
-                "ripped_rabbit",
-                "mischievous_mole"
-            ]
-        ]
-    },
-    "jugular_joker": {
-        "name": "Jugular Joker",
-        "number": null,
-        "rank": "",
-        "family": "_beast",
-        "description": null,
-        "drops": null,
-        "growth": null,
-        "talents": null,
-        "traits": null,
-        "resistances": null,
-        "synthesis": [
-            [
-                "jinkster",
-                "maniacal_mole"
-            ]
-        ]
-    },
-    "overkilling_machine": {
-        "name": "Overkilling Machine",
-        "number": null,
-        "rank": "",
-        "family": "_beast",
-        "description": null,
-        "drops": null,
-        "growth": null,
-        "talents": null,
-        "traits": null,
-        "resistances": null,
-        "synthesis": [
-            [
-                "jugular_joker",
-                "killing_machine"
-            ]
-        ]
-    },
-    "killing_machine": {
-        "name": "Killing Machine",
-        "number": null,
-        "rank": "",
-        "family": "_beast",
-        "description": null,
-        "drops": null,
-        "growth": null,
-        "talents": null,
-        "traits": null,
-        "resistances": null,
-        "synthesis": [
-            [
-                "hunter_mech",
-                "skeleton_swordsman"
-            ]
-        ]
-    },
-    "mottle_she_slime": {
-        "name": "Mottle She Slime",
-        "number": null,
-        "rank": "",
-=======
-    "mottle_she_slime": {
-        "name": "Mottle She-Slime",
-        "number": null,
-        "rank": null,
->>>>>>> 76ca232beb26840a68931a3988769cebe3cc9b82
-        "family": "_beast",
-        "description": null,
-        "drops": null,
-        "growth": null,
-        "talents": null,
-        "traits": null,
-        "resistances": null,
-        "synthesis": [
-            [
-                "mottle_slime",
-                "beshemoth_slime"
-            ]
-        ]
-<<<<<<< HEAD
     },
     "hard_boiled_eggsoskeleton": {
         "name": "Hard Boiled Eggsoskeleton",
